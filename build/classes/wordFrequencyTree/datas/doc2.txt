@@ -1,0 +1,4 @@
+Computer data is in what is called binary format. This means that it is always a 0 or a
+1. It only has these two states and must be in one of them. Bit is a data unit which
+must be in one of the two binary states described above. It is the smallest data unit
+that exists.

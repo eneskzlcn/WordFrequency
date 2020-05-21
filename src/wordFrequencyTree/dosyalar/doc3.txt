@@ -1,0 +1,3 @@
+Binary numbers and arithmetic let you represent any amount you want using just two
+digits: 0 and 1. Here are some examples: Decimal 1 is binary 0001, Decimal 3 is binary
+0011
